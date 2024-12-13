@@ -1,0 +1,120 @@
+html{
+
+    background-color: white;
+}
+
+
+body{
+
+    height: 718px;
+    width: 1368;   
+    
+    }
+
+header{
+
+    height: 90px;
+    width: 1440PX;
+    display: flex;
+    gap: 950px;
+    background-color: white;
+    padding: 50px;
+   border-bottom: black solid 1px;
+}
+
+.tete {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+
+}
+
+section{
+
+background-color: white;
+padding: 30px;
+
+
+}
+
+.informatique{
+
+    display: flex;
+    gap: 950px;
+  
+
+}
+
+.lavida{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+   
+}
+
+
+.lavida img{
+
+  width: 292px;
+  height: 247px;
+  padding: 60px;
+  border: black solid 1px;
+  
+
+}
+
+
+
+.pied img{
+    width: 292px;
+    height: 247px;
+    padding: 60px;
+    border: black solid 1px;
+    
+   
+   
+  
+}
+
+
+.pied{
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+footer{
+
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+
+article{
+
+    border: black solid 1px;
+    padding: 15px;
+  
+}
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
